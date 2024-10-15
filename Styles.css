@@ -98,18 +98,4 @@ body {
     line-height: 0.5;
 }
 
-@media (max-width: 600px) {
-    .title {
-        font-size: 28px;
-    }
-    .Intro p {
-        font-size: 14px;
-    }
-    .form-container {
-        padding: 15px;
-    }
-    .form-container input[type="email"], .form-container button {
-        padding: 10px;
-        font-size: 14px;
-    }
-}
+
